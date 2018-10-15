@@ -5,21 +5,25 @@ subtitle: What I can bring to you...
 bigimg: /img/start.jpg
 ---
 
-#### SUMMARY ####
-Accomplished Technology Leader offering 20 years of experience, including 18 years focused on a variety of Network Service Providers. Successful progressive roles from IT, Solutions Architecture and Consulting Sales in large multi-national networking companies. Proven success and expertise in developing customer relevant solutions through technical leadership, learning agility, and creative solution building.
-
-
-To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
+# SUMMARY #
+I have a diverse background in applications and networking.  I have always looked to grow and expand technology bases by focusing on the business problem and solving through technologies.  Over 20 years in technology was spent learning, developing and expanding many areas of technology.  I worked as a tactical problem solver in IT, to customer sales through to solutions architecture.  
+Shifts in technology have driven greater interest in those technology growth phases such as the transition of voice from TDM, to ATM/Frame, and on to IP.  Next I focused on enabling the shift of video from traditional MPEG technologies to Adaptive bit rate technologies and scaling those environments leveraging CDN technologies.  Current focus area is on Data Center technologies; Cloud Management systems, SDN models, automation, orchestration forwarding plane performance, application dependency graphs.   These technologies all play back to network carrier's core business of networking and helping them monetize their network while reducing their operations cost.  
+I love the chance to learn and educate.  Success for me is driving the technology decision that solves the business problems.  One product rarely solves the problem.  I enjoy driving a multi-product strategy to address customer needs.  I am very interested in driving change into these service providers as they adapt to new operational models.  Driving change and customer adoption of new technologies excites me.  
 
 
 <div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
+  <a class="btn btn-success btn-lg get-started-btn" href="mailto:rommel@bajamundi.com">Ready to talk?</a>
 </div>
 <br/>
 
-## Overview of steps required
+### Technology areas of interest ###
 
-There are only three simple steps, so using **Beautiful Jekyll** is *literally* as easy as 1-2-3 :)    
+- **Server technology transformation** - Segment routing and MPLS is coming closer and closer to the host layer.
+- **Network Analytics** - Playing a larger role, than every before; trends in security and application dependency tracing
+- **Scaling VNFs** - new horizontal scaling with highly stateful workloads are very interesting.  Coupled with both the above there is a lot of power there
+- **Automation & Orchestration** - This is the foundation upon all the rest NEED to be built upon.
+
+using **Beautiful Jekyll** is *literally* as easy as 1-2-3 :)    
 
 Here is a 40-second video showing how to get started, with the specific steps below.  For a more complete installation guide, [visit the Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
 
