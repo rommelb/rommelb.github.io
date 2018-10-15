@@ -22,7 +22,7 @@ I love the chance to learn and educate.  Success for me is driving the technolog
 ## Experience ##
 
 ### Data Center and SDN Solutions Engineer ###
-<table width="70%">
+<table border=0 width="90%">
  <tr><b>
    <th>Nokia Networks</th>
    <th>June 2015 - Present</th></b>
@@ -38,7 +38,7 @@ Solutions definition with large multi-national carrier focused on transforming n
 - aid various mobility VNF teams and their movement to address the shift in cloud.
 
 ### Sr. Consulting Systems Engineer ###
-<table width="70%">
+<table border=0 width="90%">
  <tr><b>
    <th>Juniper Networks</th>
    <th>Apr 2013 - Feb 2015</th></b>
@@ -53,7 +53,7 @@ Technical leadership in an account team focused on a large multinational network
   • Drove the creation of a whitebox strategy based on customer perception of the need to go towards a disaggregated white box model.  
 
 ### Video Solutions Architect - Video Delivery ###
-<table width="70%">
+<table border=0 width="90%">
  <tr><b>
    <th>Juniper Networks</th>
    <th>Apr 2010 - Mar 2013</th></b>
@@ -68,7 +68,7 @@ Technical leadership in an account team focused on a large multinational network
   • Worked with theater technology leads to define feasible insertion strategy for Juniper's video product set.  Growing the business from 0 to 9M in the first year after product availability.
 
 ### Systems Engineer ###
-<table width="70%">
+<table border=0 width="90%">
  <tr><b>
    <th>Cisco  Systems</th>
    <th>Apr 2006 - Mar 2010</th></b>
@@ -82,7 +82,7 @@ Technical leadership in an account team focused on a large multinational network
   • Focused on video delivery models leveraging CDS-IS to allow customer to better utilize transport by moving video traffic from MPTS towards Video over IP.
 
 ### Solutions Engineering - SP LoB - Voice technologies ###
-<table width="70%">
+<table border=0 width="90%">
  <tr><b>
    <th>Cisco Systems</th>
    <th>Feb 1996 - Jan 2006</th></b>
