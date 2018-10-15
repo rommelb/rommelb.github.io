@@ -22,7 +22,7 @@ I love the chance to learn and educate.  Success for me is driving the technolog
 
 ### Data Center and SDN Solutions Engineer ###
 
-<h4>Cisco Systems <div style="text-align: right"> June 2015 - Present</div></h4>
+<h4>Cisco Systems <span style="text-align: right"> June 2015 - Present</span></h4>
 Solutions definition with large multi-national carrier focused on transforming network and operating models around cloud and virtualization technologies.  Focused on infrastructure platforms such as OpenStack and Nuage for SDN.  Additionally, network and security analytics through Nokia's Deepfield.
 
 #### Key successes ####
@@ -34,7 +34,7 @@ Solutions definition with large multi-national carrier focused on transforming n
 
 ### Sr. Consulting Systems Engineer ###
 
-<h4>Juniper Networks <div style="text-align: right"> Apr 2013 - Mar 2015</div></h4>
+<h4>Juniper Networks <span style="text-align: right"> Apr 2013 - Mar 2015</span></h4>
 Technical leadership in an account team focused on a large multinational network service provider’s data center infrastructure and SDN models.
 
 #### Key successes ####
@@ -45,7 +45,7 @@ Technical leadership in an account team focused on a large multinational network
 
 ### Video Solutions Architect - Video Delivery ###
 
-<h4>Juniper Networks <div style="text-align: right"> Apr 2010 - Mar 2013</div></h4>
+<h4>Juniper Networks <span style="text-align: right"> Apr 2010 - Mar 2013</span></h4>
   Global Sales Technology lead for Juniper's Video delivery strategy for Service providers and content delivery providers.  Focused on growing Juniper's business for content delivery and caching.
 
 #### Key successes ####
@@ -56,7 +56,7 @@ Technical leadership in an account team focused on a large multinational network
 
 ### Systems Engineer ###
 
-<h4>Cisco Systems <div style="text-align: right"> Apr 2006 - Mar 2010</div></h4>
+<h4>Cisco Systems <span style="text-align: right"> Apr 2006 - Mar 2010</span></h4>
   Sales engineering for voice technologies in a large cable MSO in North America.  Main technology focus areas transitioned from voice technologies to video delivery technology
 
 #### Key successes ####
@@ -66,7 +66,7 @@ Technical leadership in an account team focused on a large multinational network
 
 ### Solutions Engineering - SP LoB - Voice technologies ###
 
-<h4>Cisco Systems <div style="text-align: right"> Feb 1996 - Jan 2006</div></h4>
+<h4>Cisco Systems <span style="text-align: right"> Feb 1996 - Jan 2006</span></h4>
   Solutions Engineer part of Cisco's first focused effort to address the Service provider market opportunity.  Main focus was to deliver solutions that were consumable by carriers and driving revenue generating services for those carriers.  Technology sets ranged from Voice over Frame/ATM to pure video transport across the WAN.
 
 #### Key successes ####
