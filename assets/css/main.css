@@ -61,7 +61,7 @@ hr.small {
   .main-content {
     padding-left: env(safe-area-inset-left);
     padding-right: env(safe-area-inset-right);
-    padding-top: 130px;
+    padding-top: 100px;
   }
 }
 
@@ -272,7 +272,7 @@ img {
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;
   padding: 10px;
-  padding-left: 30px;
+  padding-left: 20px;
   background: #f5f5f5;
   background-color: {{ site.navbar-children-col }};
   text-decoration: none !important;
@@ -524,7 +524,7 @@ footer .theme-by {
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
-  padding: 100px 0;
+  padding: 80px 0;
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
@@ -546,7 +546,7 @@ footer .theme-by {
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
