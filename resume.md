@@ -22,11 +22,12 @@ I love the chance to learn and educate.  Success for me is driving the technolog
 # Experience #
 
 ### Data Center and SDN Solutions Engineer ###
-
------------------------------------------------------------------------------------------
-|     **Nokia Networks**                                        |**June 2015 - Present**|
------------------------------------------------------------------------------------------
-
+<table width="70%">
+ <tr><b>
+   <th>Nokia Networks</th>
+   <th>June 2015 - Present</th></b>
+ </tr>
+</table>
 Solutions definition with large multi-national carrier focused on transforming network and operating models around cloud and virtualization technologies.  Focused on infrastructure platforms such as OpenStack and Nuage for SDN.  Additionally, network and security analytics through Nokia's Deepfield.
 
 #### Key successes ####
@@ -37,11 +38,12 @@ Solutions definition with large multi-national carrier focused on transforming n
 - aid various mobility VNF teams and their movement to address the shift in cloud.
 
 ### Sr. Consulting Systems Engineer ###
-
------------------------------------------------------------------------------------------
-|    **Juniper Networks**                                     | **Apr 2013 - Feb 2015** |
------------------------------------------------------------------------------------------
-
+<table width="70%">
+ <tr><b>
+   <th>Juniper Networks</th>
+   <th>Apr 2013 - Feb 2015</th></b>
+ </tr>
+</table>
 Technical leadership in an account team focused on a large multinational network service provider’s data center infrastructure and SDN models.
 
 #### Key successes ####
@@ -51,11 +53,12 @@ Technical leadership in an account team focused on a large multinational network
   • Drove the creation of a whitebox strategy based on customer perception of the need to go towards a disaggregated white box model.  
 
 ### Video Solutions Architect - Video Delivery - Sales CTO office ###
-
------------------------------------------------------------------------------------------
-|    **Juniper Networks**                                     | **Apr 2010 - Mar 2013** |
------------------------------------------------------------------------------------------
-
+<table width="70%">
+ <tr><b>
+   <th>Juniper Networks</th>
+   <th>Apr 2010 - Mar 2013</th></b>
+ </tr>
+</table>
   Global Sales Technology lead for Juniper's Video delivery strategy for Service providers and content delivery providers.  Focused on growing Juniper's business for content delivery and caching.
 
 #### Key successes ####
@@ -65,11 +68,12 @@ Technical leadership in an account team focused on a large multinational network
   • Worked with theater technology leads to define feasible insertion strategy for Juniper's video product set.  Growing the business from 0 to 9M in the first year after product availability.
 
 ### Systems Engineer ###
-
------------------------------------------------------------------------------------------
-|    ** Cisco Systems **                                     |  **Apr 2006 - Mar 2010** |
------------------------------------------------------------------------------------------
-
+<table width="70%">
+ <tr><b>
+   <th>Cisco  Systems</th>
+   <th>Apr 2006 - Mar 2010</th></b>
+ </tr>
+</table>
   Sales engineering for voice technologies in a large cable MSO in North America.  Main technology focus areas transitioned from voice technologies to video delivery technology
 
 #### Key successes ####
@@ -78,7 +82,12 @@ Technical leadership in an account team focused on a large multinational network
   • Focused on video delivery models leveraging CDS-IS to allow customer to better utilize transport by moving video traffic from MPTS towards Video over IP.
 
 ### Solutions Engineering - SP LoB - Voice technologies ###
-
+<table width="70%">
+ <tr><b>
+   <th>Cisco Systems</th>
+   <th>Feb 1996 - Jan 2006</th></b>
+ </tr>
+</table>
 -----------------------------------------------------------------------------------------
 |    ** Cisco Systems **                                     |  **Apr 199 6- Jan 2006** |
 -----------------------------------------------------------------------------------------
