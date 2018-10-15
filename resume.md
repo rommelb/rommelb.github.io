@@ -5,7 +5,7 @@ subtitle: Dallas, TX - rommel@bajamundi.com - m:+14084757485
 bigimg: /img/start.jpg
 ---
 
-# SUMMARY #
+## SUMMARY ##
 I have a diverse background in applications and networking.  I have always looked to grow and expand technology bases by focusing on the business problem and solving through technologies.  Over 20 years in technology was spent learning, developing and expanding many areas of technology.  I worked as a tactical problem solver in IT, to customer sales through to solutions architecture.  
 
 Shifts in technology have driven greater interest in those technology growth phases such as the transition of voice from TDM, to ATM/Frame, and on to IP.  Next I focused on enabling the shift of video from traditional MPEG technologies to Adaptive bit rate technologies and scaling those environments leveraging CDN technologies.  Current focus area is on Data Center technologies; Cloud Management systems, SDN models, automation, orchestration forwarding plane performance, application dependency graphs.   These technologies all play back to network carrier's core business of networking and helping them monetize their network while reducing their operations cost.  
@@ -19,7 +19,7 @@ I love the chance to learn and educate.  Success for me is driving the technolog
 - **Scaling VNFs** - new horizontal scaling with highly stateful workloads are very interesting.  Coupled with both the above there is a lot of power there
 - **Automation & Orchestration** - This is the foundation upon all the above must be built upon in order for the goal of lowering operations expenditures and increased velocity to be realized.  
 
-# Experience #
+## Experience ##
 
 ### Data Center and SDN Solutions Engineer ###
 <table width="70%">
@@ -52,7 +52,7 @@ Technical leadership in an account team focused on a large multinational network
   • Many requirements were coming from different parts of the account for SDN. I worked across the technical team to define and document the functional high level design.  This enabled the team to have a common message to the customer reinforcing our SDN strategy and minimizing variance between teams.
   • Drove the creation of a whitebox strategy based on customer perception of the need to go towards a disaggregated white box model.  
 
-### Video Solutions Architect - Video Delivery - Sales CTO office ###
+### Video Solutions Architect - Video Delivery ###
 <table width="70%">
  <tr><b>
    <th>Juniper Networks</th>

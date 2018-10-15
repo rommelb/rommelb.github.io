@@ -18,7 +18,7 @@ body {
   {% endif %}
 }
 p {
-  line-height: 1.5;
+  line-height: 1.2;
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -54,7 +54,7 @@ hr.small {
   .main-content {
     padding-left: env(safe-area-inset-left);
     padding-right: env(safe-area-inset-right);
-    padding-top: 130px;
+    padding-top: 120px;
   }
 }
 
