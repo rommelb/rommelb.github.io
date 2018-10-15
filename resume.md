@@ -13,7 +13,6 @@ I love the chance to learn and educate.  Success for me is driving the technolog
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="mailto:rommel@bajamundi.com">Ready to talk?</a>
 </div>
-<br/>
 
 ### Technology areas of interest ###
 - **Server technology transformation** - Segment routing and MPLS is coming closer and closer to the host layer.
