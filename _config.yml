@@ -26,13 +26,14 @@ description: Looking to learn some new things
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Microservices: "https://microservices.io/"
-    - Interesting projects: "https://github.com/rommelb?tab=stars"
+    - Getting started: "getstarted"
+    - Featured users: "featuredusers"
+    - GitHub Pages: "https://pages.github.com/"
       Author's home: "https://rommelb.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/Rommel.pic.svg.png"
+avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
