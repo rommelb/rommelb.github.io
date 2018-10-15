@@ -10,22 +10,25 @@ I have a diverse background in applications and networking.  I have always looke
 Shifts in technology have driven greater interest in those technology growth phases such as the transition of voice from TDM, to ATM/Frame, and on to IP.  Next I focused on enabling the shift of video from traditional MPEG technologies to Adaptive bit rate technologies and scaling those environments leveraging CDN technologies.  Current focus area is on Data Center technologies; Cloud Management systems, SDN models, automation, orchestration forwarding plane performance, application dependency graphs.   These technologies all play back to network carrier's core business of networking and helping them monetize their network while reducing their operations cost.  
 I love the chance to learn and educate.  Success for me is driving the technology decision that solves the business problems.  One product rarely solves the problem.  I enjoy driving a multi-product strategy to address customer needs.  I am very interested in driving change into these service providers as they adapt to new operational models.  Driving change and customer adoption of new technologies excites me.  
 
-
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="mailto:rommel@bajamundi.com">Ready to talk?</a>
 </div>
 <br/>
 
 ### Technology areas of interest ###
-
 - **Server technology transformation** - Segment routing and MPLS is coming closer and closer to the host layer.
 - **Network Analytics** - Playing a larger role, than every before; trends in security and application dependency tracing
 - **Scaling VNFs** - new horizontal scaling with highly stateful workloads are very interesting.  Coupled with both the above there is a lot of power there
 - **Automation & Orchestration** - This is the foundation upon all the rest NEED to be built upon.
 
-using **Beautiful Jekyll** is *literally* as easy as 1-2-3 :)    
+# Experience #
+### Data Center and SDN Solutions Engineer ###
+ **Nokia Networks** <div align="right">**June 2015 - Present**</div>   
+Solutions definition with large multi-national carrier focused on transforming network and operating models around cloud and virtualization technologies.  Focused on infrastructure platforms such as Openstack and Nuage for SDN.  Additionally, network and security analytics through Nokia's deepfield.
+#### Key successes ####
+- drove need for overlay technologies to drive carrier's network automation model in the data center.
+- working with product teams to define further direction towards high quality network delivery models
 
-Here is a 40-second video showing how to get started, with the specific steps below.  For a more complete installation guide, [visit the Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
 
 <img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
