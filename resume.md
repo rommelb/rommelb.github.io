@@ -88,10 +88,6 @@ Technical leadership in an account team focused on a large multinational network
    <th>Feb 1996 - Jan 2006</th></b>
  </tr>
 </table>
------------------------------------------------------------------------------------------
-|    ** Cisco Systems **                                     |  **Apr 199 6- Jan 2006** |
------------------------------------------------------------------------------------------
-
   Solutions Engineer part of Cisco's first focused effort to address the Service provider market opportunity.  Main focus was to deliver solutions that were consumable by carriers and driving revenue generating services for those carriers.  Technology sets ranged from Voice over Frame/ATM to pure video transport across the WAN.
 
 #### Key successes ####
