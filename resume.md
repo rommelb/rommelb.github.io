@@ -75,8 +75,12 @@ Technical leadership in an account team focused on a large multinational network
   • Built the network to first transport the first Hollywood production quality video over the Internet(Titan AE), as a highlight at the Supercomm tradeshow
   - Contributed 2 chapters to Deploying Cisco voice over IP Solutions covering SIP technologies and traffic analysis leveraging Erlang probability and Markovian process models.
 
-
+### Education and Credentials ###
+  • Book: Deploying Cisco Voice Over IP Solutions  Pub. Date: Nov 2001 ISBN: 1587050307
+  • US Patent:  7778234 Local provisioning of bandwidth and other network resources
+  • University of Illinois- Chicago  Declared Major: BS – Electrical Engineering
+- 
   If you would like to discuss the opportunity further please feel free to reach out:
 
-  [rommel@bajamundi.com](mailto:rommel@bajamundi.com?subject=Opportunity")
-  [Call me @ +1 408 475-7485](tel://+14084758475)
+<a href="mailto:rommel@bajamundi.com?subject=Opportunity">rommel@bajamundi.com</a>
+<a href="tel://+14089301136">Call me @ +1-408 930 1136</a>
