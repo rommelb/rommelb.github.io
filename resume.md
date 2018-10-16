@@ -12,11 +12,15 @@ Shifts in technology have driven greater interest in those technology growth pha
 
 I love the chance to learn and educate.  Success for me is driving the technology decision that solves the business problems.  One product rarely solves the problem.  I enjoy driving a multi-product strategy to address customer needs.  I am very interested in driving change into these service providers as they adapt to new operational models.  Driving change and customer adoption of new technologies excites me.  
 
+-----------------------------
+
 ### Technology areas of interest ###
 - **Server technology transformation** - Segment routing and MPLS is coming closer and closer to the host layer.
 - **Network Analytics** - Playing a larger role, than every before; trends in security and application dependency tracing
 - **Scaling VNFs** - new horizontal scaling with highly stateful workloads are very interesting.  Coupled with both the above there is a lot of power there
 - **Automation & Orchestration** - This is the foundation upon all the above must be built upon in order for the goal of lowering operations expenditures and increased velocity to be realized.  
+
+---------------------------
 
 ## Experience ##
 
@@ -74,6 +78,8 @@ Technical leadership in an account team focused on a large multinational network
 - Tasked with taking bleeding edge technologies, and delivering defined solution models that could be consumed and sold by sales teams to their customers.  Aiding in carrier sales growth from under ~7% to ~35% of total business in Cisco
 - Built the network to first transport the first Hollywood production quality video over the Internet(Titan AE), as a highlight at the Supercomm tradeshow
 - Contributed 2 chapters to Deploying Cisco voice over IP Solutions covering SIP technologies and traffic analysis leveraging Erlang probability and Markovian process models.
+
+---------------------------------
 
 ### Education and Credentials ###
 
