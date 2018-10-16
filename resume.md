@@ -79,7 +79,7 @@ Technical leadership in an account team focused on a large multinational network
   • Book: Deploying Cisco Voice Over IP Solutions  Pub. Date: Nov 2001 ISBN: 1587050307
   • US Patent:  7778234 Local provisioning of bandwidth and other network resources
   • University of Illinois- Chicago  Declared Major: BS – Electrical Engineering
-- 
+-
   If you would like to discuss the opportunity further please feel free to reach out:
 
 <a href="mailto:rommel@bajamundi.com?subject=Opportunity">rommel@bajamundi.com</a>
