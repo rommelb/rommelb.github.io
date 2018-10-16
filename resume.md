@@ -8,10 +8,6 @@ bigimg: /img/start.jpg
 
 I have a diverse background in applications and networking.  I have always looked to grow and expand technology bases by focusing on the business problem and solving through technologies.  Over 20 years in technology was spent learning, developing and expanding many areas of technology.  I worked as a tactical problem solver in IT, to customer sales through to solutions architecture.  
 
-Shifts in technology have driven greater interest in those technology growth phases such as the transition of voice from TDM, to ATM/Frame, and on to IP.  Next I focused on enabling the shift of video from traditional MPEG technologies to Adaptive bit rate technologies and scaling those environments leveraging CDN technologies.  Current focus area is on Data Center technologies; Cloud Management systems, SDN models, automation, orchestration forwarding plane performance, application dependency graphs.   These technologies all play back to network carrier's core business of networking and helping them monetize their network while reducing their operations cost.  
-
-I love the chance to learn and educate.  Success for me is driving the technology decision that solves the business problems.  One product rarely solves the problem.  I enjoy driving a multi-product strategy to address customer needs.  I am very interested in driving change into these service providers as they adapt to new operational models.  Driving change and customer adoption of new technologies excites me.  
-
 -----------------------------
 
 ### Technology areas of interest ###
@@ -21,6 +17,29 @@ I love the chance to learn and educate.  Success for me is driving the technolog
 - **Automation & Orchestration** - This is the foundation upon all the above must be built upon in order for the goal of lowering operations expenditures and increased velocity to be realized.  
 
 ---------------------------
+
+### Skills ###
+
+| Solutions architecture   | Solutions Sales | Tech presentation    |
+|--------------------------|-----------------|----------------------|
+| Technology Evangelization| Cloud Management| Network Analytics    |
+|--------------------------|-----------------|----------------------|
+| Data Center tech         | Automation      |         SDN          |
+|--------------------------|-----------------|----------------------|
+| Nuage VSP                | Content Delivery |  Voice over IP      |
+|--------------------------|-----------------|----------------------|
+| Juniper Contrail         | OpenStack       | Video over IP        |
+|--------------------------|-----------------|----------------------|
+| VxLAN + EVPN             | Switching       | Linux                |
+|--------------------------|-----------------|----------------------|
+| Brigade/Nornir*          | Ansible*        | git*                 |
+|--------------------------|-----------------|----------------------|
+| Kubernetes*              | Segment Routing*|                      |
+|--------------------------|-----------------|----------------------|
+
+* \*Developing
+
+--------------------------------
 
 ## Experience ##
 
@@ -81,10 +100,15 @@ Technical leadership in an account team focused on a large multinational network
 
 ---------------------------------
 
-### Education and Credentials ###
+### Accomplishments ###
 
 - Book: Deploying Cisco Voice Over IP Solutions  Pub. Date: Nov 2001 ISBN: 1587050307
 - US Patent:  7778234 Local provisioning of bandwidth and other network resources
+
+------------------------------------
+
+### Education  ###
+
 - University of Illinois - Chicago IL 1990-1992 Declared Major - Electrical Engineering
 - DeVry University - Addison, IL 1994-1995 Declared Major - Telecommunications
 
