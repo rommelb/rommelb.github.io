@@ -22,7 +22,7 @@ I love the chance to learn and educate.  Success for me is driving the technolog
 
 ### Data Center and SDN Solutions Engineer ###
 
-<h4>Cisco Systems <span style="float:right"> June 2015 - Present</span></h4>
+<h4>Nokia Networks <span style="float:right"> June 2015 - Present</span></h4>
 Solutions definition with large multi-national carrier focused on transforming network and operating models around cloud and virtualization technologies.  Focused on infrastructure platforms such as OpenStack and Nuage for SDN.  Additionally, network and security analytics through Nokia's Deepfield.
 
 #### Key successes ####
