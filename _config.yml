@@ -26,8 +26,8 @@ description: Looking to learn some new things
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Getting started: "getstarted"
-    - Featured users: "featuredusers"
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
       Author's home: "https://rommelb.github.io"
 
@@ -79,9 +79,9 @@ social-network-links:
   twitter: rommelb
 #  reddit: yourname
   google-plus: +rommelb
-  linkedin: linkedin.com/in/rommelb
+  linkedin: rommelb
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+#  stackoverflow: "8062692/rommel"
 #  snapchat: rommelb
 #  instagram: rommelb
 #  youtube: user/rommelb
@@ -105,15 +105,7 @@ url-pretty: "rommelb.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127462332-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-127462332-1');
-</script>"
+gtag: "UA-127462332-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-127462332-1"
@@ -251,4 +243,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-github-metadata
 
+  # Beautiful Jekyll / Dean Attali
+  # 2fc73a3a967e97599c9763d05e564189
     ---
