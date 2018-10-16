@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rommel Bajamundi's Resume
+title: Rommel Bajamundi
 subtitle: Dallas, TX - rommel@bajamundi.com - m:+14084757485
 bigimg: /img/start.jpg
 ---
