@@ -20,22 +20,22 @@ I have a diverse background in applications and networking.  I have always looke
 
 ### Skills ###
 
-| Solutions architecture   | Solutions Sales | Tech presentation    |
-|--------------------------|-----------------|----------------------|
-| Technology Evangelization| Cloud Management| Network Analytics    |
-|--------------------------|-----------------|----------------------|
-| Data Center tech         | Automation      |         SDN          |
-|--------------------------|-----------------|----------------------|
-| Nuage VSP                | Content Delivery |  Voice over IP      |
-|--------------------------|-----------------|----------------------|
-| Juniper Contrail         | OpenStack       | Video over IP        |
-|--------------------------|-----------------|----------------------|
-| VxLAN + EVPN             | Switching       | Linux                |
-|--------------------------|-----------------|----------------------|
-| Brigade/Nornir*          | Ansible*        | git*                 |
-|--------------------------|-----------------|----------------------|
-| Kubernetes*              | Segment Routing*|                      |
-|--------------------------|-----------------|----------------------|
+| Solutions architecture    | Solutions Sales | Tech presentation    |
+|---------------------------|-----------------|----------------------|
+| Technology Evangelization | Cloud Management| Network Analytics    |
+|---------------------------|-----------------|----------------------|
+| Data Center tech          | Automation      |   Orchestration      |
+|---------------------------|-----------------|----------------------|
+| Software Defined Networks | Nuage VSP       |  Content Delivery    |
+|---------------------------|-----------------|----------------------|
+| Juniper Contrail          | OpenStack       | Video over IP        |
+|---------------------------|-----------------|----------------------|
+| VxLAN + EVPN              | Switching       | Linux                |
+|---------------------------|-----------------|----------------------|
+| Voice over IP             | Ansible*        | Brigade/Nornir*      |
+|---------------------------|-----------------|----------------------|
+| Kubernetes*               | Segment Routing*|      git*            |
+|---------------------------|-----------------|----------------------|
 
 * \*Developing
 
