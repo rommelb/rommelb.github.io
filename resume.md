@@ -39,9 +39,9 @@ Technical leadership in an account team focused on a large multinational network
 
 #### Key successes ####
 
-  • In response to the needs around cost reduction and better resource utilization in the data center, proposed a transformative overlay SDN solution.  In order to provide the right solution, worked with product teams and partner teams to determine and document a new data center architecture for the customer. Ultimately, resulting in the first install of OpenStack with Juniper’s Contrail Networking.
-  • Many requirements were coming from different parts of the account for SDN. I worked across the technical team to define and document the functional high level design.  This enabled the team to have a common message to the customer reinforcing our SDN strategy and minimizing variance between teams.
-  • Drove the creation of a whitebox strategy based on customer perception of the need to go towards a disaggregated white box model.  
+- In response to the needs around cost reduction and better resource utilization in the data center, proposed a transformative overlay SDN solution.  In order to provide the right solution, worked with product teams and partner teams to determine and document a new data center architecture for the customer. Ultimately, resulting in the first install of OpenStack with Juniper’s Contrail Networking.
+- Many requirements were coming from different parts of the account for SDN. I worked across the technical team to define and document the functional high level design.  This enabled the team to have a common message to the customer reinforcing our SDN strategy and minimizing variance between teams.
+- Drove the creation of a whitebox strategy based on customer perception of the need to go towards a disaggregated white box model.  
 
 ### Video Solutions Architect - Video Delivery ###
 
@@ -50,9 +50,9 @@ Technical leadership in an account team focused on a large multinational network
 
 #### Key successes ####
 
-  • Led all technical sales effort and strategy for video delivery across the company within the sales CTO organization.  Engaged early in the product life cycle prior to a working product and demo quality.
-  • Defined sales proficiency and training models to get teams up to speed to build sales.  
-  • Worked with theater technology leads to define feasible insertion strategy for Juniper's video product set.  Growing the business from 0 to 9M in the first year after product availability.
+- Led all technical sales effort and strategy for video delivery across the company within the sales CTO organization.  Engaged early in the product life cycle prior to a working product and demo quality.
+- Defined sales proficiency and training models to get teams up to speed to build sales.  
+- Worked with theater technology leads to define feasible insertion strategy for Juniper's video product set.  Growing the business from 0 to 9M in the first year after product availability.
 
 ### Systems Engineer ###
 
@@ -61,8 +61,8 @@ Technical leadership in an account team focused on a large multinational network
 
 #### Key successes ####
 
-  • Drove relationship around voice technology arena on the largest carrier voice over IP deployment at Cisco utilizing the BTS10200. Focused on aligning customer targets and product technology deliverables to turn around customer perception of the product.
-  • Focused on video delivery models leveraging CDS-IS to allow customer to better utilize transport by moving video traffic from MPTS towards Video over IP.
+- Drove relationship around voice technology arena on the largest carrier voice over IP deployment at Cisco utilizing the BTS10200. Focused on aligning customer targets and product technology deliverables to turn around customer perception of the product.
+- Focused on video delivery models leveraging CDS-IS to allow customer to better utilize transport by moving video traffic from MPTS towards Video over IP.
 
 ### Solutions Engineering - SP LoB - Voice technologies ###
 
@@ -71,15 +71,15 @@ Technical leadership in an account team focused on a large multinational network
 
 #### Key successes ####
 
-  • Tasked with taking bleeding edge technologies, and delivering defined solution models that could be consumed and sold by sales teams to their customers.  Aiding in carrier sales growth from under ~7% to ~35% of total business in Cisco
-  • Built the network to first transport the first Hollywood production quality video over the Internet(Titan AE), as a highlight at the Supercomm tradeshow
-  - Contributed 2 chapters to Deploying Cisco voice over IP Solutions covering SIP technologies and traffic analysis leveraging Erlang probability and Markovian process models.
+- Tasked with taking bleeding edge technologies, and delivering defined solution models that could be consumed and sold by sales teams to their customers.  Aiding in carrier sales growth from under ~7% to ~35% of total business in Cisco
+- Built the network to first transport the first Hollywood production quality video over the Internet(Titan AE), as a highlight at the Supercomm tradeshow
+- Contributed 2 chapters to Deploying Cisco voice over IP Solutions covering SIP technologies and traffic analysis leveraging Erlang probability and Markovian process models.
 
 ### Education and Credentials ###
-  • Book: Deploying Cisco Voice Over IP Solutions  Pub. Date: Nov 2001 ISBN: 1587050307
-  • US Patent:  7778234 Local provisioning of bandwidth and other network resources
-  • University of Illinois- Chicago  Declared Major: BS – Electrical Engineering
--
+- Book: Deploying Cisco Voice Over IP Solutions  Pub. Date: Nov 2001 ISBN: 1587050307
+- US Patent:  7778234 Local provisioning of bandwidth and other network resources
+- University of Illinois- Chicago  Declared Major: BS – Electrical Engineering
+
   If you would like to discuss the opportunity further please feel free to reach out:
 
 <a href="mailto:rommel@bajamundi.com?subject=Opportunity">rommel@bajamundi.com</a>
