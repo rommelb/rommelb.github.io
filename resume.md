@@ -76,6 +76,7 @@ Technical leadership in an account team focused on a large multinational network
 - Contributed 2 chapters to Deploying Cisco voice over IP Solutions covering SIP technologies and traffic analysis leveraging Erlang probability and Markovian process models.
 
 ### Education and Credentials ###
+
 - Book: Deploying Cisco Voice Over IP Solutions  Pub. Date: Nov 2001 ISBN: 1587050307
 - US Patent:  7778234 Local provisioning of bandwidth and other network resources
 - University of Illinois- Chicago  Declared Major: BS – Electrical Engineering
