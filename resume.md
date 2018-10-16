@@ -85,4 +85,3 @@ Technical leadership in an account team focused on a large multinational network
 If you would like to discuss the opportunity further please feel free to reach out:
 
 <a href="mailto:rommel@bajamundi.com?subject=Opportunity">Email: rommel@bajamundi.com</a>
-<a href="tel://+14089301136">Call me @ +1 408 475 7485</a>
