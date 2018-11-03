@@ -37,7 +37,7 @@ I have a diverse background in applications and networking.  I have always looke
 | Kubernetes*               | Segment Routing*|      git*            |
 |---------------------------|-----------------|----------------------|
 
-*\*Developing*
+*\*focused learning areas*
 
 --------------------------------
 
