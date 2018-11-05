@@ -6,7 +6,9 @@ bigimg: /img/start.jpg
 ---
 ## SUMMARY ##
 
-I have a diverse background in applications and networking.  I have always looked to grow and expand technology bases by focusing on the business problem and solving through technologies.  Over 20 years in technology was spent learning, developing and expanding many areas of technology.  I worked as a tactical problem solver in IT, to customer sales through to solutions architecture.  
+A seasoned professional with an established track record for leading the design, sale and deployment of large scale, highly available, complex solutions spanning networking and adjacent technology domains such as Voice over IP, CDN, automation and orchestration.   I bring diverse career background providing technology leadership mated with a keen sense of the business and market drivers for change in those technology sets. 
+Working within many networking native organization I focus on applications and networking solutions that solve business goals.  I  drive how technology decisions solve business problems by analyzing technologies; nascent and developed and defining how those technologies are leveraged to achieve goals.  
+Over 20 years in technology was spent learning, developing and expanding into many areas of technology, transitioning from a tactical problem solver in IT, to customer sales through to solutions architecture.  
 
 -----------------------------
 
